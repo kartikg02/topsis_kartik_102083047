@@ -11,8 +11,8 @@ setup(
     author='Rahul Kapoor',                   # Type in your name
     author_email='rahulkapoor902@gmail.com',      # Type in your E-Mail
     # Provide either the link to your github or to your website
-    url='https://github.com/rahul21200/topsis_rahul_101903508',
-    download_url='https://github.com/rahul21200/topsis_rahul_101903508/archive/refs/tags/v_01.tar.gz',
+    url='https://github.com/kartikg02/topsis_kartik_102083047',
+    download_url='https://github.com/kartikg02/topsis_kartik_102083047/archive/refs/tags/v_01.tar.gz',
     # Keywords that define your package best
     keywords=['SOME', 'MEANINGFULL', 'KEYWORDS'],
     install_requires=[            # I get to this in a second
